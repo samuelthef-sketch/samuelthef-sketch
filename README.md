@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Samuel Nash Poblete, a student from the Philippines passionate about coding, robotics, and artificial intelligence. I love working with Arduino and building embedded systems that bridge hardware and software to solve real-world problems.<br><br>I enjoy programming in C++, Python, and C#, and I often use these languages when developing smart prototypes, automation projects, and IoT systems. My goal is to design innovative solutions that can make everyday life smarter, safer, and more efficient.
+Hi, I’m Samuel Nash Poblete, a student from the Philippines passionate about coding, robotics, and artificial intelligence. I love working with Arduino and building embedded systems that bridge hardware and software<br><br>I enjoy programming in C++, Python, and C#, and I often use these languages when developing prototypes, automation projects, and IoT systems. My goal is to design innovative solutions that can make everyday life smarter, safer, and more efficient.
 
 
 ## 🌐 Socials:
